@@ -7,5 +7,5 @@ https://pypi.org/project/online-scheduler/
 
 下の画像ではschedule.pyというファイルにonline_schedulerをインポートして動かしている。このファイルのコードは画像の通りである。
 
-<img width="242" alt="image" src="https://github.com/2222041/Online_Scheduler/online_scheduler/test.png">
+<img width="242" alt="image" src="online_scheduler/test.png">
 
